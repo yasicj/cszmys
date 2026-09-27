@@ -3,6 +3,5 @@ site_url: https://hkmesy.readthedocs.io/zh-cn/latest/
 theme:
   name: material
   custom_dir: overrides
-extra_templates:
-  - robots.txt
+
 
